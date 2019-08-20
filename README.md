@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Tripwire _RX Base_ Firmware Sketch
 
-You can use the [editor on GitHub](https://github.com/diy-home-security/Tripwire-RX-Base/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**This repo is a release test. Do not clone or fork please!**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the firmware sketch for the Tripwire _RX Base_ wireless base station.
 
-### Markdown
+Designed specifically to work with the Tripwire [TX Node](/diy-home-security/Tripwire-TX-Node/) wireless PIR motion-detector sensor.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Documentation with build manual, operation and help regarding _TX Node_ and the _Tripwire wireless security system_ can be found in the [Docs](/diy-home-security/Tripwire-Docs/) repository.
 
-```markdown
-Syntax highlighted code block
+The _DIY-Home-Security_ team invests time and resources providing this open-source code. Please support our effort and open-source hardware by [purchasing](/diy-home-security/Tripwire-Docs/) the _Tripwire_ kit and products by _DIY-Home-Security_!
 
-# Header 1
-## Header 2
-### Header 3
+All content in this repository is licensed under a [GPLv3](http://www.gnu.org/licenses/gpl) license.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/diy-home-security/Tripwire-RX-Base/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Copyright 2019 [Clipland GmbH](http://www.clipland.com/corporate/). All rights reserved.
